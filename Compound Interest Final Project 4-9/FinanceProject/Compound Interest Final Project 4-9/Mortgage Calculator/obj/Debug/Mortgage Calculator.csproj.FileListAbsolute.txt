@@ -1,9 +1,0 @@
-D:\C#\Compound Interest Final Project 4-9\Mortgage Calculator\bin\Debug\Mortgage Calculator.exe.config
-D:\C#\Compound Interest Final Project 4-9\Mortgage Calculator\bin\Debug\Mortgage Calculator.exe
-D:\C#\Compound Interest Final Project 4-9\Mortgage Calculator\bin\Debug\Mortgage Calculator.pdb
-D:\C#\Compound Interest Final Project 4-9\Mortgage Calculator\obj\Debug\Mortgage_Calculator.Form1.resources
-D:\C#\Compound Interest Final Project 4-9\Mortgage Calculator\obj\Debug\Mortgage_Calculator.Properties.Resources.resources
-D:\C#\Compound Interest Final Project 4-9\Mortgage Calculator\obj\Debug\Mortgage Calculator.csproj.GenerateResource.Cache
-D:\C#\Compound Interest Final Project 4-9\Mortgage Calculator\obj\Debug\Mortgage Calculator.csproj.CoreCompileInputs.cache
-D:\C#\Compound Interest Final Project 4-9\Mortgage Calculator\obj\Debug\Mortgage Calculator.exe
-D:\C#\Compound Interest Final Project 4-9\Mortgage Calculator\obj\Debug\Mortgage Calculator.pdb
